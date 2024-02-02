@@ -2,7 +2,7 @@
 layout: post
 title: Test2
 subtitle: Test2 bla bla bla
-cover-img: /assets/img/path.jpg
+#cover-img: /assets/img/path.jpg
 tags: [books, test]
 author: EMN
 ---
