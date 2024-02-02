@@ -4,11 +4,10 @@ title: About me
 ---
 
 **Emilio Martínez-Núñez**
+_Professor of Physical Chemistry_
 <p align="left">
    <img src="foto.jpg" alt="alt text" width="100" height="100">
 </p>
-
-_Professor of Physical Chemistry_
 
 **Address:** 
 
