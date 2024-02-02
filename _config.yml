@@ -68,12 +68,12 @@ social-network-links:
 share-links-active:
   twitter: true
 #  facebook: true
-  linkedin: true
+#  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "emartineznunez.github.io"
+# url-pretty: "emartineznunez.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
