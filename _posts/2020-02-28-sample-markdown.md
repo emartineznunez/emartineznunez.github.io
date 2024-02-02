@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Test1
 gh-repo: daattali/beautiful-jekyll
 tags: [test]
 comments: true
