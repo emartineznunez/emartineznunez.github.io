@@ -9,8 +9,10 @@ _Professor of Physical Chemistry_
 **Address:** 
 
 Departamento de Química Física. Facultade de Química.
+
 Avda. das Ciencias s/n, 15782. Santiago de Compostela, SPAIN
-Email: emilio.nunez@usc.es  
+
+[emilio.nunez@usc.es](mailto:emilio.nunez@usc.es)
 
 My research is focussed on the development of theoretical models to study chemical reactions. See the publications for details.
 
