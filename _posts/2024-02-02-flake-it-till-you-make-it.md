@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test2
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Test2 bla bla bla
 cover-img: /assets/img/path.jpg
 tags: [books, test]
 author: EMN
