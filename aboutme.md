@@ -4,7 +4,9 @@ title: About me
 ---
 
 Emilio Martínez-Núñez
-
+<p align="left">
+   <img src="foto.jpg" alt="alt text" width="200" height="100">
+</p>
 Professor of Physical Chemistry
 
 Address: 
