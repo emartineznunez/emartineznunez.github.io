@@ -22,9 +22,9 @@ author: Emilio Martínez-Núñez
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   AutoMeKin: "https://github.com/emartineznunez/AutoMeKin"
 
 ################
