@@ -9,4 +9,5 @@ title: Publications
    <img src="https://github.com/emartineznunez/emartineznunez.github.io/blob/master/Imagen1.gif?raw=true" alt="alt text" width="300" height="150">
    </p>
 
-
+2. Exploring unimolecular rections in disilanol and ethanol: Insights and challenges  
+[THEORETICAL CHEMISTRY ACCOUNTS, 2023, 142, 124](https://link.springer.com/article/10.1007/s00214-023-03062-0)
