@@ -13,7 +13,6 @@ title: Publications
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2023**, _25_, 22840](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02571c) 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"> </script>
-
 <script>
 MathJax = {
     loader: {load: ['[tex]/newcommand', '[tex]/color']},
@@ -47,8 +46,7 @@ MathJax = {
     }
 };
 </script>
-
 <script id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
-$x+y=2$
+$min(\delta)$
