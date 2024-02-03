@@ -49,4 +49,4 @@ MathJax = {
 <script id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
-$min(\delta)$
+$min(\delta_{ij}>max(\delta_{ik}))$
