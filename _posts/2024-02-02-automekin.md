@@ -14,4 +14,4 @@ gh-badge: [star,watch,fork,follow]
    <img src="https://raw.githubusercontent.com/emartineznunez/AutoMeKin/main/logo.png" alt="alt text" width="200" height="100">
 </p>
 
-[Github repository](https://github.com/emartineznunez/AutoMeKin)
+
