@@ -10,4 +10,4 @@ title: Publications
    </p>
 
 2. Exploring unimolecular rections in disilanol and ethanol: Insights and challenges  
-[THEORETICAL CHEMISTRY ACCOUNTS, 2023, 142, 124](https://link.springer.com/article/10.1007/s00214-023-03062-0)
+[THEORETICAL CHEMISTRY ACCOUNTS, **2023**, _142_, 124](https://link.springer.com/article/10.1007/s00214-023-03062-0)
