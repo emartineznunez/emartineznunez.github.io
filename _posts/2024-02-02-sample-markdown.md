@@ -11,7 +11,9 @@ author: EMN
 {: .box-success}
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) 
 
+<script src="/assets/copyCode.js"></script>
 
+{% include codeHeader.html %}
 ```
 test.sh test.dat
 ```
