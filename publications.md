@@ -9,4 +9,4 @@ title: Publications
    <img src="https://github.com/emartineznunez/emartineznunez.github.io/blob/master/Imagen1.gif?raw=true" alt="alt text" width="400" height="200">
    </p>
 
-$x+y$
+$x^2+y^2$
