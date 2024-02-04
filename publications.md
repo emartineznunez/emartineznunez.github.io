@@ -16,7 +16,7 @@ title: Latest Publications
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2023**, _25_, 20988](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02379f)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg" alt="alt text" width="300" height="200">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg" alt="alt text" width="300" height="150">
 </p>
 
 - C<sub>60</sub>+C<sub>60</sub> molecular bonding revisited and expanded  
