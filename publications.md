@@ -12,3 +12,4 @@ title: Latest Publications
 3. New prebiotic molecules in the interstellar medium form the reaction between vinyl alcohol and CN radicals: unsupervised reaction mechanism discovery, accurate electronic structure calculations and kinetic simulations  
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2023**, _25_, 22840](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02571c) 
 
+The complete list of publications is available by clicking the Google Sholar badge below
