@@ -12,14 +12,14 @@ title: Latest Publications
 3. New prebiotic molecules in the interstellar medium form the reaction between vinyl alcohol and CN radicals: unsupervised reaction mechanism discovery, accurate electronic structure calculations and kinetic simulations  
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2023**, _25_, 22840](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02571c)
 
- 4. Gas-Phase Formation of Glycolonitrile in the Interstellar Medium   
+ 4. Gas-Phase formation of glycolonitrile in the interstellar medium   
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2023**, _25_, 20988](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02379f)
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg" alt="alt text" width="200" height="100">
 </p>
 
-5. C60+C60 molecular bonding revisited and expanded  
+5. C<sub>60</sub>+C<sub>60</sub> molecular bonding revisited and expanded  
 [CARBON, **2023**, _213_, 118209](https://www.sciencedirect.com/science/article/pii/S0008622323004542)
 
 The complete list of publications is available by clicking the Google Sholar badge below
