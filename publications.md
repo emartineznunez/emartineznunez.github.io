@@ -19,5 +19,7 @@ title: Latest Publications
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg" alt="alt text" width="200" height="100">
 </p>
 
+5. C60+C60 molecular bonding revisited and expanded  
+[CARBON, **2023**, _213_, 118209](https://www.sciencedirect.com/science/article/pii/S0008622323004542)
 
 The complete list of publications is available by clicking the Google Sholar badge below
