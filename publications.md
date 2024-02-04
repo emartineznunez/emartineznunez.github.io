@@ -22,4 +22,9 @@ title: Latest Publications
 5. C<sub>60</sub>+C<sub>60</sub> molecular bonding revisited and expanded  
 [CARBON, **2023**, _213_, 118209](https://www.sciencedirect.com/science/article/pii/S0008622323004542)
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/C60.jpg" alt="alt text" width="200" height="100">
+</p>
+
+
 The complete list of publications is available by clicking the Google Sholar badge below
