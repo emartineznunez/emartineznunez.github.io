@@ -16,14 +16,14 @@ title: Latest Publications
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2023**, _25_, 20988](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02379f)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg" alt="alt text" width="200" height="100">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg" alt="alt text" width="300" height="200">
 </p>
 
 5. C<sub>60</sub>+C<sub>60</sub> molecular bonding revisited and expanded  
 [CARBON, **2023**, _213_, 118209](https://www.sciencedirect.com/science/article/pii/S0008622323004542)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/C60.jpg" alt="alt text" width="200" height="100">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/C60.jpg" alt="alt text" width="300" height="200">
 </p>
 
 
