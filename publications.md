@@ -16,7 +16,7 @@ title: Latest Publications
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2023**, _25_, 20988](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02379f)
 
 <p align="center">
-   <img src="[logo.png](https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/main/ISM.jpg)" alt="alt text" width="200" height="100">
+   <img src="[logo.png](https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/ISM.jpg)" alt="alt text" width="200" height="100">
 </p>
 
 
