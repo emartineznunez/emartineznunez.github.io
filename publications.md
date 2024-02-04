@@ -27,4 +27,4 @@ title: Latest Publications
 </p>
 
 
-The complete list of publications is available by clicking the Google Sholar badge below
+The _complete list of publications_ is available by clicking the **Google Sholar badge** below
