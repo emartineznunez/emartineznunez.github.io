@@ -1,3 +1,3 @@
 # Academic website using Beautiful Jekyll
 
-https://emartineznunez.github.io
+https://emartineznunez.github.io/my_web
