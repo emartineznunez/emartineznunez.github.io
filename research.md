@@ -5,6 +5,7 @@ title: Research
 
 # Contents:
 - ### [Automated methods for reaction discovery](#auto)
+- ### [Tools to analyze reaction networks](#amktools)
 - ### [Energy transfer models in gas-surface collisions](#etransfer)
 - ### [Rare-event acceleration](#axd)
 
@@ -14,6 +15,12 @@ title: Research
 Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin).
 
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734)
+
+## Tools to analyze reaction networks<a name="amktools"></a>
+
+The level of detail attained in the computational description of reaction mechanisms can be vastly improved through tools for automated chemical space exploration, particularly for systems of small to medium size.  In this spirit, the new Python library amk-tools has been designed to read and manipulate complex reaction networks, greatly simplifying their overall analysis. The package provides interactive dashboards featuring visualizations of the network, the three-dimensional (3D) molecular structures and vibrational normal modes of all chemical species, and the corresponding energy profiles for selected pathways. 
+
+Further details in the original [publication](https://pubs.acs.org/doi/full/10.1021/acsphyschemau.1c00051).
 
 ## Energy transfer models in gas-surface collisions<a name="etransfer"></a>
 
