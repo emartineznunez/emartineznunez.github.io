@@ -4,18 +4,18 @@ title: Research
 ---
 
 # Contents:
-- ### [Automated methods for reaction discovery](#auto)
-- ### [Tools to analyze reaction networks](#amktools)
-- ### [Energy transfer models in gas-surface collisions](#etransfer)
-- ### [Rare-event acceleration](#axd)
-- ### [Fitting PESs](#pes)
+- #### [Automated methods for reaction discovery](#auto)
+- #### [Tools to analyze reaction networks](#amktools)
+- #### [Energy transfer models in gas-surface collisions](#etransfer)
+- #### [Rare-event acceleration](#axd)
+- #### [Fitting PESs](#pes)
 
 
 ## Automated methods for reaction discovery<a name="auto"></a>
 
 Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin).
 
-{: .box-note}
+{: .box-warning}
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734)
 
 ## Tools to analyze reaction networks<a name="amktools"></a>
@@ -42,7 +42,7 @@ $
 $   
 
 with $\langle \Delta E_0 \rangle$, $a$, $b$, $c$ and $d$ being adjustable parameters.
-
+{: .box-warning}
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
 ## Rare-event acceleration<a name="axd"></a>
