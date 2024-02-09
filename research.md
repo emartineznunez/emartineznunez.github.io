@@ -19,12 +19,12 @@ An energy transfer model has been developed for gas-surface collisions. The mode
 
 3. However, for larger projectiles, the percent transfer to vibration is nearly constant, a result that can be attributed to a mass effect and also to the fact that only a reduced subset of “effective” vibrational dof is being activated in the collisions
 
-The MD results can be very well fitted to an equation that accounts for the adiabatic, low-energy, and impulsive, high-energy, collision:
+The MD results can be very well fitted to an equation that accounts for the adiabatic, low-energy, and impulsive, high-energy, regimes:
 
 $
 \langle \Delta E \rangle=\langle \Delta E^{ad} \rangle+\langle \Delta E^{imp} \rangle=\langle \Delta E_0 \rangle+a\exp \left(\frac{-b}{\sqrt{E}}\right)+cd^2\mathrm{csch}^2\left(\frac{d}{\sqrt{E}}\right)
 $
-
+with $a$, $b$ and $c$ being parameters.
 
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
