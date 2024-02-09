@@ -3,7 +3,7 @@ layout: page
 title: Latest Publications
 ---
 
-- Effect of temperature in the gas-phase reaction of CH<sub>3</sub>CN with OH radicals: Experimental $\scriptstyle{(T=11.7-177.5K)}$ and computational (T=10-400K) kinetic study  
+- Effect of temperature in the gas-phase reaction of CH<sub>3</sub>CN with OH radicals: Experimental $\scriptstyle{(T=11.7-177.5K)}$ and computational $\scriptstyle{(T=10-400K)}$ kinetic study  
    [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2024**, _26_, 3632](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04944b)
 
 - Exploring unimolecular rections in disilanol and ethanol: Insights and challenges  
