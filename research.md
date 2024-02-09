@@ -22,16 +22,11 @@ An energy transfer model has been developed for gas-surface collisions. The mode
 The MD results can be very well fitted to an equation that accounts for the adiabatic, low-energy, and impulsive, high-energy, collision:
 
 $$
-x+y
+\langle \Delta E \rangle=\langle \Delta E^{ad} \rangle+\langle \Delta E^{imp} \rangle
 $$
 
 
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
-
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/C60.jpg" alt="alt text" width="300" height="200">
-</p>
 
 
