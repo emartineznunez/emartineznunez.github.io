@@ -3,13 +3,18 @@ layout: page
 title: Research
 ---
 
-# Automated methods to discover reaction mechanisms
+# Contents:
+- [Automated methods for reaction discovery](#auto)
+- [Energy transfer models in gas-surface collisions](#etransfer)
+
+
+# Automated methods for reaction discovery<a name="auto"></a>
 
 Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin).
 
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734)
 
-# Energy transfer models in gas-surface collisions
+# Energy transfer models in gas-surface collisions<a name="etransfer"></a>
 
 An energy transfer model has been developed for gas-surface collisions. The model relies on simple gas-phase scattering models. When energy transfer is analyzed in the limit of high incident energies, the following results are found:
 
