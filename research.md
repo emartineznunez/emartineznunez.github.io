@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latest Publications
+title: Research
 ---
 
 - Effect of temperature in the gas-phase reaction of CH<sub>3</sub>CN with OH radicals: Experimental $\scriptstyle{(T=11.7-177.5\mathrm{K})}$ and computational $\scriptstyle{(T=10-400\mathrm{K})}$ kinetic study  
