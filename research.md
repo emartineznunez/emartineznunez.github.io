@@ -24,7 +24,7 @@ The MD results can be very well fitted to an equation that accounts for the adia
 $
 \langle \Delta E \rangle=\langle \Delta E^{ad} \rangle+\langle \Delta E^{imp} \rangle=\langle \Delta E_0 \rangle+a\exp \left(\frac{-b}{\sqrt{E}}\right)+cd^2\mathrm{csch}^2\left(\frac{d}{\sqrt{E}}\right)
 $
-with $a$, $b$ and $c$ being parameters.
+with $a$, $b$, $c$ and $d$ being adjustable parameters.
 
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
