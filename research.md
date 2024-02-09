@@ -5,7 +5,7 @@ title: Research
 
 # Automated methods to discover reaction mechanisms
 
-Over the last few years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of accelerated dynamics simulations and Graph Theory. The procedure has been applied to different systems and a computer program is available: AutoMeKin.
+Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin).
 
 The cobalt-catalyzed hydroformylation of ethylene has been studied with our procedure, explaining not only the major mechanism, but also side  reactions like hydrogenation. (Chem. Sci. 2017, 8, 3843)
 
