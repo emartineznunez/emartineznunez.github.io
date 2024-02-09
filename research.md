@@ -6,7 +6,7 @@ title: Research
 # Contents:
 - ### [Automated methods for reaction discovery](#auto)
 - ### [Energy transfer models in gas-surface collisions](#etransfer)
-- ### [Rare event acceleration method](#axd)
+- ### [Rare-event acceleration](#axd)
 
 
 ## Automated methods for reaction discovery<a name="auto"></a>
@@ -35,7 +35,7 @@ with $\langle \Delta E_0 \rangle$, $a$, $b$, $c$ and $d$ being adjustable parame
 
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
-## Rare event acceleration method<a name="axd"></a>
+## Rare-event acceleration<a name="axd"></a>
 
 The approach is based on introducing constraints which lock trajectories in the region of the phase space close to the dividing surface, which separates reactants and products. This results in substantial, _i.e._, up to more than 2 orders of magnitude, speeding up of the trajectory simulation. Actual microcanonical rates are calculated by introducing a correction factor equal to the fraction of the phase volume which is allowed by the constraints. The constraints can be more complex than previously used boosting potentials. The approach has its origin in Intramolecular Dynamics Diffusion Theory, which shows that the majority of nonstatistical effects are localized near the transition state. 
 
