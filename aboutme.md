@@ -13,9 +13,9 @@ _Professor of Physical Chemistry_
 </p>
 
 
-Departamento de Química Física. Facultade de Química.
-
-Avda. das Ciencias s/n, 15782. Santiago de Compostela, SPAIN
+Departamento de Química Física. Facultade de Química.   
+Avda. das Ciencias s/n, 15782.    
+Santiago de Compostela, SPAIN
 
 [emilio.nunez@usc.gal](mailto:emilio.nunez@usc.gal)
 
