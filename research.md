@@ -28,7 +28,9 @@ Further details in the original [publication](https://pubs.acs.org/doi/full/10.1
 
 ## Generalization of TSSCDS to study vdW complexes<a name="vdw"></a>
 
-[publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26008)
+We present a generalization of the transition state search using chemical dynamics simulations (TSSCDS) methodology (discussed in a previous study) which allows the topographical characterization of intermolecular potential energy surfaces (IPES) for non-covalently bound complexes (vdW-TSSCDS). Starting from a single random input geometry, we show that vdW-TSSCDS is able to globally and automatically locate stationary points of an IPES, even in limiting cases such as extremely flat regions or nontrivial topologies (eg, bifurcation points). The basic idea is the expression of the connectivity matrix in block structure, where diagonal blocks correspond to the isolated fragments and off-diagonal blocks provide the intermolecular connectivity. To this end, we introduce a new definition of bound or not, in a non-covalent sense, utilizing an extra set of van der Waals distances, which encompasses all kinds of non-covalent distances.
+
+This work is a collaboration with Dani Peláez and this research group and this is the original [work](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26008)
 
 
 ## Energy transfer models in gas-surface collisions<a name="etransfer"></a>
