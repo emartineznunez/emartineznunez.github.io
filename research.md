@@ -6,6 +6,7 @@ title: Research highlights
 # Contents:
 - #### [Automated methods for reaction discovery](#auto)
 - #### [Tools to analyze reaction networks](#amktools)
+- #### [Generalization of TSSCDS to study vdW complexes](#vdw)
 - #### [Energy transfer models in gas-surface collisions](#etransfer)
 - #### [Rare-event acceleration](#axd)
 - #### [Fitting PESs](#pes)
@@ -24,6 +25,11 @@ The level of detail attained in the computational description of reaction mechan
 
 {: .box-warning}
 Further details in the original [publication](https://pubs.acs.org/doi/full/10.1021/acsphyschemau.1c00051). This is a collaborative work with Diego Garay-Ruiz, Moises Álvarez-Moreno, Carles Bo, from ICIQ.
+
+## Generalization of TSSCDS to study vdW complexes<a name="vdw"></a>
+
+[publication](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26008)
+
 
 ## Energy transfer models in gas-surface collisions<a name="etransfer"></a>
 
