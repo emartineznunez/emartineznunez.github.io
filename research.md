@@ -8,6 +8,7 @@ title: Research
 - ### [Tools to analyze reaction networks](#amktools)
 - ### [Energy transfer models in gas-surface collisions](#etransfer)
 - ### [Rare-event acceleration](#axd)
+- ### [Fitting PESs](#pes)
 
 
 ## Automated methods for reaction discovery<a name="auto"></a>
@@ -48,3 +49,4 @@ The approach is based on introducing constraints which lock trajectories in the 
 
 The method was developed by Dmitry Shalashilin and myself and is described in [this paper](https://pubs.acs.org/doi/10.1021/ct060042z)
 
+## Fitting PESs<a name="pes"></a>
