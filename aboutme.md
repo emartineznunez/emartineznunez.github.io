@@ -8,7 +8,10 @@ _Professor of Physical Chemistry_
 
 **Address:** 
 
-https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/404.html
+<p align="left">
+   <img src="assets/img/facultade.png" alt="alt text" width="200" height="100">
+</p>
+
 
 Departamento de Química Física. Facultade de Química.
 
