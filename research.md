@@ -20,7 +20,7 @@ The program and the underpinning methods are described in [this publication](htt
 
 The level of detail attained in the computational description of reaction mechanisms can be vastly improved through tools for automated chemical space exploration, particularly for systems of small to medium size.  In this spirit, the new Python library amk-tools has been designed to read and manipulate complex reaction networks, greatly simplifying their overall analysis. The package provides interactive dashboards featuring visualizations of the network, the three-dimensional molecular structures and vibrational normal modes of all chemical species, and the corresponding energy profiles for selected pathways. 
 
-Further details in the original [publication](https://pubs.acs.org/doi/full/10.1021/acsphyschemau.1c00051).This is a collaborative work with Diego Garay-Ruiz, Moises Álvarez-Moreno, Carles Bo, from ICIQ.
+Further details in the original [publication](https://pubs.acs.org/doi/full/10.1021/acsphyschemau.1c00051). This is a collaborative work with Diego Garay-Ruiz, Moises Álvarez-Moreno, Carles Bo, from ICIQ.
 
 ## Energy transfer models in gas-surface collisions<a name="etransfer"></a>
 
