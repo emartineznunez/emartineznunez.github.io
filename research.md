@@ -6,6 +6,7 @@ title: Research
 # Contents:
 - ### [Automated methods for reaction discovery](#auto)
 - ### [Energy transfer models in gas-surface collisions](#etransfer)
+- ### [Rare event acceleration methods](#axd)
 
 
 ## Automated methods for reaction discovery<a name="auto"></a>
