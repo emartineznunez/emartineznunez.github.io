@@ -50,3 +50,7 @@ The approach is based on introducing constraints which lock trajectories in the 
 The method was developed by Dmitry Shalashilin and myself and is described in [this paper](https://pubs.acs.org/doi/10.1021/ct060042z)
 
 ## Fitting PESs<a name="pes"></a>
+
+We developed a software package based on a genetic algorithm that fits an analytic function to a given set of data points. The code, called GAFit, was also interfaced with the CHARMM and MOPAC programs in order to facilitate force field parameterizations and fittings of specific reaction parameters for semiempirical Hamiltonians. The present tool may be applied to a wide range of fitting problems, though it has been especially designed to significantly reduce the hard work involved in the development of potential energy surfaces for complex systems. For this purpose, it has been equipped with several programs to help the user in the preparation of the input files. We showcase the application of the computational tool to several chemical-relevant problems: force-field parameterization, with emphasis on nonbonded energy terms or intermolecular potentials, derivation of SRP for semiempirical Hamiltonians, and fittings of generic analytical functions.
+
+Collaborative work with Saulo Vázquez and Roberto Rodríguez-Fernández, Francisco Pereira and Jorge Marques. Here is the [publication](https://www.sciencedirect.com/science/article/abs/pii/S0010465517300607)
