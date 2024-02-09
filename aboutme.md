@@ -9,7 +9,7 @@ _Professor of Physical Chemistry_
 **Address:** 
 
 <p align="left">
-   <img src="assets/img/facultade.png" alt="alt text" width="200" height="100">
+   <img src="assets/img/facultade.jpg" alt="alt text" width="200" height="100">
 </p>
 
 
