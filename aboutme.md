@@ -21,8 +21,6 @@ e-mail: [emilio.nunez@usc.gal](mailto:emilio.nunez@usc.gal)
 
 My research is focussed on the development of theoretical models to study chemical reactions. See the [publications](https://emartineznunez.github.io/publications/) for details. Over the last years I've been involved in the Automated discovery of reaction Mechanisms and Kinetics: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin)
 
-On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
-
 Discussing my research (in Spanish and English)
 
 <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/w25-mpu2mUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
@@ -30,5 +28,7 @@ Discussing my research (in Spanish and English)
 <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/nj7k6pt_uoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 
 <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/X_Hbo7u5Ok0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+
+On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
 
 
