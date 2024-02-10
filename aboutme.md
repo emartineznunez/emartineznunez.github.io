@@ -21,4 +21,4 @@ e-mail: [emilio.nunez@usc.gal](mailto:emilio.nunez@usc.gal)
 
 My research is focussed on the development of theoretical models to study chemical reactions. See the [publications](https://emartineznunez.github.io/publications/) for details. Over the last years I've been involved in the Automated discovery of reaction Mechanisms and Kinetics: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin)
 
-On a more personal note, I love running and music, have a profound appreciation for nature, and enjoy very much travelling.
+On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
