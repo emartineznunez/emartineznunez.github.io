@@ -32,7 +32,7 @@ Discussing my research $\scriptstyle{(}$in Spanish and English$\scriptstyle{)}$:
 On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/lille.jpg" width="200" /> 
+  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" width="400" />
+  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/lille.jpg" width="400" /> 
 </p>
 
