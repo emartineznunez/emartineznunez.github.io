@@ -31,6 +31,6 @@ Discussing my research $\scriptstyle{(}$in Spanish and English$\scriptstyle{)}$:
 
 On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
 <p align="left">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" alt="alt text" width="500" height="250">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" alt="alt text" width="400" height="250">
 </p>
 
