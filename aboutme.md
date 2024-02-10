@@ -19,7 +19,5 @@ Santiago de Compostela, SPAIN
 
 [emilio.nunez@usc.gal](mailto:emilio.nunez@usc.gal)
 
-My research is focussed on the development of theoretical models to study chemical reactions. See the [publications](https://emartineznunez.github.io/publications/) for details.
-
-Over the last years I've been involved in the Automated discovery of reaction Mechanisms and Kinetics: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin)
+My research is focussed on the development of theoretical models to study chemical reactions. See the [publications](https://emartineznunez.github.io/publications/) for details. Over the last years I've been involved in the Automated discovery of reaction Mechanisms and Kinetics: [AutoMeKin](https://github.com/emartineznunez/AutoMeKin)
 
