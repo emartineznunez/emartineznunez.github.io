@@ -39,4 +39,4 @@ title: Latest Publications
 </p>
 
 
-The _complete list of publications_ is available by clicking the **Google Sholar link** below
+The _complete list of publications_ is available here: [![Google scholar - Emilio Martinez-Nunez](https://img.shields.io/badge/Google_scholar-Emilio_Martinez--Nunez-2ea44f?logo=googlescholar)](https://scholar.google.es/citations?user=ebumcsQAAAAJ&hl=es)
