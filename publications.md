@@ -20,6 +20,10 @@ title: Latest Publications
 - New prebiotic molecules in the interstellar medium form the reaction between vinyl alcohol and CN radicals: unsupervised reaction mechanism discovery, accurate electronic structure calculations and kinetic simulations  
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2023**, _25_, 22840](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02571c)
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/ballota.jpg" alt="alt text" width="300" height="200">
+</p>
+
 - Gas-Phase formation of glycolonitrile in the interstellar medium   
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2023**, _25_, 20988](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02379f)
 
