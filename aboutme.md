@@ -31,8 +31,7 @@ Discussing my research $\scriptstyle{(}$in Spanish and English$\scriptstyle{)}$:
 
 On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
 
-How to tell your PB in half-marathon witout telling it...
-<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/S6nmOt7k1I8?start=1265&end=1275" title="How to tell your PB in half-marathon without telling it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+<iframe title="How to tell your PB in half-marathon without telling it---" width="320" height="180" src="https://www.youtube-nocookie.com/embed/S6nmOt7k1I8?start=1265&end=1275" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" width="300" />
