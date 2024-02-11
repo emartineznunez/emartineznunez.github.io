@@ -13,6 +13,10 @@ title: Latest Publications
 - Exploring unimolecular rections in disilanol and ethanol: Insights and challenges  
 [THEORETICAL CHEMISTRY ACCOUNTS, **2023**, _142_, 124](https://link.springer.com/article/10.1007/s00214-023-03062-0)
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/disilanol.jpg" alt="alt text" width="300" height="200">
+</p>
+
 - New prebiotic molecules in the interstellar medium form the reaction between vinyl alcohol and CN radicals: unsupervised reaction mechanism discovery, accurate electronic structure calculations and kinetic simulations  
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2023**, _25_, 22840](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02571c)
 
