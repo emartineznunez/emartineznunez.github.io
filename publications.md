@@ -7,7 +7,7 @@ title: Latest Publications
    [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2024**, _26_, 3632](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04944b)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/rates.gif" alt="alt text" width="300" height="150">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/rates.gif" alt="alt text" width="300" height="200">
 </p>
 
 - Exploring unimolecular rections in disilanol and ethanol: Insights and challenges  
