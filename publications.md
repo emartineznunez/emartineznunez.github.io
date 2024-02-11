@@ -39,4 +39,4 @@ title: Latest Publications
 </p>
 
 
-The _complete list of publications_ is available by clicking the **Google Sholar badge** below
+The _complete list of publications_ is available by clicking the **Google Sholar link** below
