@@ -21,7 +21,7 @@ title: Latest Publications
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2023**, _25_, 22840](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02571c)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/Ballota.jpg" alt="alt text" width="300" height="200">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/Ballota.jpg" alt="alt text" width="300" height="150">
 </p>
 
 - Gas-Phase formation of glycolonitrile in the interstellar medium   
