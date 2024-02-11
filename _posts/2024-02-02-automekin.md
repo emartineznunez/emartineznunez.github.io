@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current work
-subtitle: AutoMeKin
+subtitle: AutoMeKin [![GitHub - AutoMeKin](https://img.shields.io/badge/GitHub-AutoMeKin-blue?logo=github)](https://github.com/emartineznunez/AutoMeKin/)
 tags: [automekin]
 comments: true
 gh-repo: emartineznunez/AutoMeKin
