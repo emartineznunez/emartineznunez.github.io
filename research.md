@@ -3,7 +3,8 @@ layout: page
 title: Research highlights
 ---
 
-# Contents:
+## Contents:
+
 - ##### [Automated methods for reaction discovery](#auto)
 - #### [Tools to analyze reaction networks](#amktools)
 - #### [Generalization of TSSCDS to study vdW complexes](#vdw)
