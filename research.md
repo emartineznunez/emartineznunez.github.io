@@ -3,7 +3,6 @@ layout: page
 title: Research highlights
 ---
 
-## Contents:
 
 1. _[Automated methods for reaction discovery](#auto)_
 2. _[Tools to analyze reaction networks](#amktools)_
