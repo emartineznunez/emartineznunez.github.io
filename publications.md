@@ -3,9 +3,10 @@ layout: page
 title: Publications
 ---
 
-1. [Latest](#latest)
-
-## Latest
+1. _[Latest](#latest)_
+2. _[Most relevant](#rel)_
+   
+## 1. Latest<a name="latest"></a>
 
 - Effect of temperature in the gas-phase reaction of CH<sub>3</sub>CN with OH radicals: Experimental $\scriptstyle{(T=11.7-177.5\mathrm{K})}$ and computational $\scriptstyle{(T=10-400\mathrm{K})}$ kinetic study  
    [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2024**, _26_, 3632](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04944b)
@@ -41,6 +42,8 @@ title: Publications
 <p align="center">
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/C60.jpg" alt="alt text" width="300" height="200">
 </p>
+
+## 2. Most relevant<a name="latest"></a>
 
 
 The _complete list of publications_ is available here: [![Google scholar - Emilio Martinez-Nunez](https://img.shields.io/badge/Google_scholar-Emilio_Martinez--Nunez-2ea44f?logo=googlescholar)](https://scholar.google.es/citations?user=ebumcsQAAAAJ&hl=es)
