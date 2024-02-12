@@ -43,7 +43,7 @@ title: Publications
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/C60.jpg" alt="alt text" width="300" height="200">
 </p>
 
-## 2. Most relevant<a name="latest"></a>
+### 2. Most relevant<a name="latest"></a>
 
 - An automated method to find transition states using chemical dynamics simulations   
 [J. COMPUT. CHEM. **2015**, _36_, 222](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23790)
