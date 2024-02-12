@@ -5,12 +5,12 @@ title: Research highlights
 
 ## Contents:
 
-- ##### [Automated methods for reaction discovery](#auto)
-- ##### [Tools to analyze reaction networks](#amktools)
-- ##### [Generalization of TSSCDS to study vdW complexes](#vdw)
-- ##### [Energy transfer models in gas-surface collisions](#etransfer)
-- ##### [Rare-event acceleration](#axd)
-- ##### [Fitting PESs](#pes)
+1. _[Automated methods for reaction discovery](#auto)_
+2. _[Tools to analyze reaction networks](#amktools)_
+3. _[Generalization of TSSCDS to study vdW complexes](#vdw)_
+4. _[Energy transfer models in gas-surface collisions](#etransfer)_
+5. _[Rare-event acceleration](#axd)_
+6. _[Fitting PESs](#pes)_
 
 
 ## Automated methods for reaction discovery<a name="auto"></a>
