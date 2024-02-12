@@ -45,5 +45,7 @@ title: Publications
 
 ## 2. Most relevant<a name="latest"></a>
 
+- An automated method to find transition states using chemical dynamics simulations   
+[J. COMPUT. CHEM. **2015**, _36_, 222](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23790)
 
 The _complete list of publications_ is available here: [![Google scholar - Emilio Martinez-Nunez](https://img.shields.io/badge/Google_scholar-Emilio_Martinez--Nunez-2ea44f?logo=googlescholar)](https://scholar.google.es/citations?user=ebumcsQAAAAJ&hl=es)
