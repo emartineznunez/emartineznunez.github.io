@@ -12,12 +12,15 @@ title: Research highlights
 6. _[Fitting PESs](#pes)_
 
 
+
 ### 1. Automated methods for reaction discovery<a name="auto"></a>
 
 Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [![GitHub - AutoMeKin](https://img.shields.io/badge/GitHub-AutoMeKin-blue?logo=github)](https://github.com/emartineznunez/AutoMeKin/)
 
 {: .box-warning}
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734). AutoMeKin mostly relies on the MD-based method developed under the name [TSSCDS](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23790).
+
+
 
 ### 2. Tools to analyze reaction networks<a name="amktools"></a>
 
@@ -26,12 +29,15 @@ The level of detail attained in the computational description of reaction mechan
 {: .box-warning}
 Further details in the original [publication](https://pubs.acs.org/doi/full/10.1021/acsphyschemau.1c00051). This is a collaborative work with Diego Garay-Ruiz, Moises Álvarez-Moreno, Carles Bo, from ICIQ.
 
+
+
 ### 3. Generalization of TSSCDS to study vdW complexes<a name="vdw"></a>
 
 We present a generalization of the transition state search using chemical dynamics simulations, TSSCDS, methodology, which allows the topographical characterization of intermolecular potential energy surfaces, IPES, for non-covalently bound complexes, vdW-TSSCDS. Starting from a single random input geometry, we show that vdW-TSSCDS is able to globally and automatically locate stationary points of an IPES, even in limiting cases such as extremely flat regions or nontrivial topologies, _e.g._, bifurcation points. The basic idea is the expression of the connectivity matrix in block structure, where diagonal blocks correspond to the isolated fragments and off-diagonal blocks provide the intermolecular connectivity. To this end, we introduce a new definition of bound or not, in a non-covalent sense, utilizing an extra set of van der Waals distances, which encompasses all kinds of non-covalent distances.
 
 {: .box-warning}
 This work is a collaboration with Dani Peláez and this research group and this is the original [work](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26008)
+
 
 
 ### 4. Energy transfer models in gas-surface collisions<a name="etransfer"></a>
@@ -55,12 +61,16 @@ with $\langle \Delta E_0 \rangle$, $a$, $b$, $c$ and $d$ being adjustable parame
 {: .box-warning}
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
+
+
 ### 5. Rare-event acceleration<a name="axd"></a>
 
 The approach is based on introducing constraints which lock trajectories in the region of the phase space close to the dividing surface, which separates reactants and products. This results in substantial, _i.e._, up to more than 2 orders of magnitude, speeding up of the trajectory simulation. Actual microcanonical rates are calculated by introducing a correction factor equal to the fraction of the phase volume which is allowed by the constraints. The constraints can be more complex than previously used boosting potentials. The approach has its origin in Intramolecular Dynamics Diffusion Theory, which shows that the majority of nonstatistical effects are localized near the transition state. 
 
 {: .box-warning}
 The method was developed by Dmitry Shalashilin and myself and is described in [this paper](https://pubs.acs.org/doi/10.1021/ct060042z)
+
+
 
 ### 6. Fitting PESs<a name="pes"></a>
 
