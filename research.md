@@ -4,7 +4,7 @@ title: Research highlights
 ---
 
 # Contents:
-- #### [Automated methods for reaction discovery](#auto)
+- ##### [Automated methods for reaction discovery](#auto)
 - #### [Tools to analyze reaction networks](#amktools)
 - #### [Generalization of TSSCDS to study vdW complexes](#vdw)
 - #### [Energy transfer models in gas-surface collisions](#etransfer)
