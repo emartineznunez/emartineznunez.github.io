@@ -52,6 +52,10 @@ title: Publications
 - An automated method transition state search using classical trajectories initialized at multiple minima    
 [PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2015**, _17_, 14921](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp02175h/unauth)
 
+- AutoMekin2021: An open-source program for automated reaction discovery   
+[JOURNAL OF COMPUTATIONAL CHEMISTRY **2021**, _42_, 2036](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26734)
+
+
 ### 3. Complete list<a name="comp"></a>
 
 The _complete list of publications_ is available here: [![Google scholar - Emilio Martinez-Nunez](https://img.shields.io/badge/Google_scholar-Emilio_Martinez--Nunez-2ea44f?logo=googlescholar)](https://scholar.google.es/citations?user=ebumcsQAAAAJ&hl=es)
