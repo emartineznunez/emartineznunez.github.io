@@ -71,6 +71,10 @@ $
 
 with $\langle \Delta E_0 \rangle$, $a$, $b$, $c$ and $d$ being adjustable parameters.
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/etransfer.jpg" alt="alt text" width="600">
+</p>
+
 {: .box-warning}
 You can consult the full details in [this publication](https://pubs.acs.org/doi/10.1021/jp4117134) 
 
