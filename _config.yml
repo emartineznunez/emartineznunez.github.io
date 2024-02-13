@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Publications: "publications"
+  Collaborators: "collaborators"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
