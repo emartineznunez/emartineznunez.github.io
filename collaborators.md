@@ -4,7 +4,9 @@ title: Collaborators
 full-width: true
 ---
 
-xx
+<p align="center">
+As of January 2024, this figure illustrates the collaborative network, consisting of individuals with Google Scholar profiles.
+</p>
 
 As of January 2024, this figure illustrates the collaborative network, consisting of individuals with Google Scholar profiles.
 
