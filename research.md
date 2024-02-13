@@ -18,7 +18,7 @@ title: Research highlights
 Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [![GitHub - AutoMeKin](https://img.shields.io/badge/GitHub-AutoMeKin-blue?logo=github)](https://github.com/emartineznunez/AutoMeKin/)
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/bbfs.jpg" alt="alt text" width="600" height="200">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/bbfs.jpg" alt="alt text" width="600">
 </p>
 Example system showing the BBFS criterion, used in AutoMeKin to pindown the location of transition-state guess structures. Blue vectors correspond to the velocity vectors of the specific atom. Solid lines link neighboring atoms and the dashed lines indicate nonneighboring ones. At time step t, the maximum distance between i1 and its neighbors i2, i3 is smaller than the minimum distance, d, to non-neighbors k;  red dashed line. At time step t', the distance d$\scriptstyle{(}$i1,k2$\scriptstyle{)}$ becomes smaller than the distance d$\scriptstyle{(}$i1,i3$\scriptstyle{)}$, indicating the possibility of a TS in the vicinity.
 
