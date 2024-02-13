@@ -23,10 +23,11 @@ Over the last years we have been involved in the development of automated method
 </p>
 Example system showing the BBFS criterion, used in AutoMeKin to pindown the location of transition-state guess structures. Blue vectors correspond to the velocity vectors of the specific atom. Solid lines link neighboring atoms and the dashed lines indicate nonneighboring ones. At time step $\scriptstyle{t}$, the maximum distance between $\scriptstyle{i_1}$ and its neighbors $\scriptstyle{i_2}$, $\scriptstyle{i_3}$ is smaller than the minimum distance, $\scriptstyle{d}$, to non-neighbors $\scriptstyle{k}$;  red dashed line. At time step $\scriptstyle{t'}$, the distance $\scriptstyle{d(i_1,k_2)}$ becomes smaller than the distance $\scriptstyle{d(i_1,i_3)}$, indicating the possibility of a TS in the vicinity.
 
+<p align="center">
 $
 max(d(i_1,i_m))>min(d_{i_1,k_m}) \forall m
 $
-
+</p>
 {: .box-warning}
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734). AutoMeKin mostly relies on the MD-based method developed under the name [TSSCDS](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23790).
 
