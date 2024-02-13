@@ -25,7 +25,7 @@ Example system showing the BBFS criterion, used in AutoMeKin to pindown the loca
 
 <p align="center">
 $
-\mathrm{max}\left( d(i_1,i_m) \right) >\mathrm{min}\left( d(i_1,k_m) \right)    \forall m
+\mathrm{max}\left[ d(i_1,i_m) \right] >\mathrm{min}\left[ d(i_1,k_m) \right] \quad   \forall m
 $
 </p>
 
