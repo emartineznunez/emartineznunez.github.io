@@ -1,18 +1,10 @@
 ---
 layout: page
 title: Collaborators
+full-width: true
 ---
 
-<head>
-<style>
-div {
-  margin-right: 15px;
-  margin-left: 15px;
-}
-</style>
-</head>
-
-
+xx
 
 As of January 2024, this figure illustrates the collaborative network, consisting of individuals with Google Scholar profiles.
 
