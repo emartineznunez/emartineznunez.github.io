@@ -17,6 +17,11 @@ title: Research highlights
 
 Over the last years we have been involved in the development of automated methods to discover complex reaction mechanisms. The methods are based on the use of molecular dynamics simulations, Heuristics and Graph Theory. The procedure has been applied to different systems and an open-source program is available: [![GitHub - AutoMeKin](https://img.shields.io/badge/GitHub-AutoMeKin-blue?logo=github)](https://github.com/emartineznunez/AutoMeKin/)
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/rates.gif" alt="alt text" width="300" height="200">
+</p>
+
+
 {: .box-warning}
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734). AutoMeKin mostly relies on the MD-based method developed under the name [TSSCDS](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23790).
 
