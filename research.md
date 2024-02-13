@@ -10,6 +10,7 @@ title: Research highlights
 4. _[Energy transfer models in gas-surface collisions](#etransfer)_
 5. _[Rare-event acceleration](#axd)_
 6. _[Fitting PESs](#pes)_
+7. _[Vibrational angular momentum in MD simulations](#vam)_
 
 
 
@@ -104,3 +105,10 @@ We developed a software package based on a genetic algorithm that fits an analyt
 
 {: .box-warning}
 This is a collaborative work with Saulo Vázquez and Roberto Rodríguez-Fernández, Francisco Pereira and Jorge Marques. Here is the [publication](https://www.sciencedirect.com/science/article/abs/pii/S0010465517300607)
+
+### 7. Vibrational angular momentum in MD simulations<a name="vam"></a>
+
+Linear molecules with degenerate bending modes have states, which may be represented by the quantum numbers $\scriptstyle{N}$ and $\scriptstyle{L}$. The former gives the total energy for these modes and the latter identifies their vibrational angular momentum $\scriptstyle{j_z}$. In this work, the classical mechanical analog of the $\scriptstyle{N,L}$-quantum states is reviewed, and an algorithm is presented for selecting initial conditions for these states in MD simulations. 
+
+
+
