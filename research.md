@@ -110,6 +110,11 @@ This is a collaborative work with Saulo Vázquez and Roberto Rodríguez-Fernánd
 
 Linear molecules with degenerate bending modes have states, which may be represented by the quantum numbers $\scriptstyle{N}$ and $\scriptstyle{L}$. The former gives the total energy for these modes and the latter identifies their vibrational angular momentum $\scriptstyle{j_z}$. In this work, the classical mechanical analog of the $\scriptstyle{N,L}$-quantum states is reviewed, and an algorithm is presented for selecting initial conditions for these states in MD simulations. 
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/vam.jpeg" alt="alt text" width="600">
+</p>
+
+
 {: .box-warning}
 This is a collaborative work with Upakarasamy Lourderaj and the late Bill Hase. Here is the [publication](https://pubs.acs.org/doi/full/10.1021/jp073317v#)
 
