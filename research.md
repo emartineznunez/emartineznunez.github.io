@@ -25,9 +25,10 @@ Example system showing the BBFS criterion, used in AutoMeKin to pindown the loca
 
 <p align="center">
 $
-max(d(i_1,i_m))>min(d_{i_1,k_m}) \forall m
+\mathrm{max}\left( d(i_1,i_m)\right) >\mathrm{min}\left( d_(i_1,k_m) \right) \forall m
 $
 </p>
+
 {: .box-warning}
 The program and the underpinning methods are described in [this publication](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.26734). AutoMeKin mostly relies on the MD-based method developed under the name [TSSCDS](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23790).
 
