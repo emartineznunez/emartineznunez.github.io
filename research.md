@@ -113,7 +113,7 @@ Linear molecules with degenerate bending modes have states, which may be represe
 <p align="center">
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/vam.jpeg" alt="alt text" width="600">
 </p>
-Plots of motion in the XY plane for an O-atom of CO<sub>2</sub> prepared in different L states.
+Plots of motion in the XY plane for an O-atom of CO<sub>2</sub> prepared in different $\scriptstyle{L}$ states.
 
 {: .box-warning}
 This is a collaborative work with Upakarasamy Lourderaj and the late Bill Hase. Here is the [publication](https://pubs.acs.org/doi/full/10.1021/jp073317v#)
