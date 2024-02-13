@@ -82,7 +82,7 @@ You can consult the full details in [this publication](https://pubs.acs.org/doi/
 
 ### 5. Rare-event acceleration<a name="axd"></a>
 
-The approach is based on introducing constraints which lock trajectories in the region of the phase space close to the dividing surface, which separates reactants and products. This results in substantial, _i.e._, up to more than 2 orders of magnitude, speeding up of the trajectory simulation. Actual microcanonical rates are calculated by introducing a correction factor equal to the fraction of the phase volume which is allowed by the constraints. The constraints can be more complex than previously used boosting potentials. The approach has its origin in Intramolecular Dynamics Diffusion Theory, which shows that the majority of nonstatistical effects are localized near the transition state. 
+The approach is based on introducing constraints which lock trajectories in a region of the phase space close to the dividing surface with volume $\scriptstyle{\Gamma_1}$ , which separates reactants and products. This results in substantial, _i.e._, up to more than 2 orders of magnitude, speeding up of the trajectory simulation. Actual microcanonical rates $\scriptstyle{k(E)}$ are calculated by introducing a correction factor equal to the fraction of the phase volume which is allowed by the constraints. The constraints can be more complex than previously used boosting potentials. The approach has its origin in Intramolecular Dynamics Diffusion Theory, which shows that the majority of nonstatistical effects are localized near the transition state. 
 
 $
 k(E)=k^{biased}(E)\frac{\Gamma_1}{\Gamma}
