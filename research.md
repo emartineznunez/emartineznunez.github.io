@@ -72,7 +72,7 @@ $
 with $\langle \Delta E_0 \rangle$, $a$, $b$, $c$ and $d$ being adjustable parameters.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/etransfer.jpeg" alt="alt text" width="600">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/etransfer.jpeg" alt="alt text" width="400">
 </p>
 
 {: .box-warning}
