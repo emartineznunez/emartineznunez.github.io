@@ -32,7 +32,7 @@ The program and the underpinning methods are described in [this publication](htt
 The level of detail attained in the computational description of reaction mechanisms can be vastly improved through tools for automated chemical space exploration, particularly for systems of small to medium size.  In this spirit, the new Python library [![GitHub - amk_tools](https://img.shields.io/badge/GitHub-amk_tools-blue?logo=github)](https://github.com/dgarayr/amk_tools/) has been designed to read and manipulate complex reaction networks, greatly simplifying their overall analysis. The package provides interactive dashboards featuring visualizations of the network, the three-dimensional molecular structures and vibrational normal modes of all chemical species, and the corresponding energy profiles for selected pathways. 
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/bokeh_plot.png" alt="alt text" width="600" height="200">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/bokeh_plot.png" alt="alt text" width="600">
 </p>
 
 {: .box-warning}
