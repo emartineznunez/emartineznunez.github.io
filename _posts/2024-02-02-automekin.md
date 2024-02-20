@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Current work
-subtitle: AutoMeKin
+title: AutoMeKin
+subtitle: Automated reaction discovery
 tags: [automekin]
 comments: true
 gh-repo: emartineznunez/AutoMeKin
