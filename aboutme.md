@@ -34,12 +34,12 @@ Discussing my research $\scriptstyle{(}$in Spanish and English$\scriptstyle{)}$:
 On a more personal note, I really love running, music, nature, and I enjoy traveling a lot..
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" width="300" />
-  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla2.jpg" width="300" /> 
+  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla.jpg" width="320" />
+  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/shimla2.jpg" width="320" /> 
 </p>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/mendoza.jpg" width="300" />
-  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/lille.jpg" width="300" /> 
+  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/mendoza.jpg" width="320" />
+  <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/lille.jpg" width="320" /> 
 </p>
 
 
