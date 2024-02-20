@@ -9,7 +9,7 @@ _Professor of Physical Chemistry_
 **Address:** 
 
 <p align="left">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/facultade.jpg" alt="alt text" width="500" height="250">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/facultade.jpg" alt="alt text" width="320">
 </p>
 
 
