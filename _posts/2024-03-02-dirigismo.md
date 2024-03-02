@@ -2,7 +2,7 @@
 layout: post
 title: Convocatoria de Ayudas Posdoctorales de la Xunta de Galicia
 subtitle: Otro Ejemplo de Dirigismo Científico 
-tags: [automekin]
+tags: [politica cientifica]
 comments: true
 cover-img: "dirigismo.jpg"
 author: Emilio Martínez-Núñez
