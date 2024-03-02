@@ -1,0 +1,18 @@
+---
+layout: post
+title: Crafting AutoMeKin
+subtitle: Unleashing innovation amidst financial constraints
+tags: [automekin]
+comments: true
+cover-img: "amk.jpg"
+author: Emilio Martínez-Núñez
+---
+
+In the realm of innovation, a lack of traditional funding can paradoxically fuel out-of-the-box discoveries. Financial constraints force out-of-the-box thinkers to explore new avenues, encouraging ingenuity and creative problem-solving. Without the safety net of funding, there's freedom from conventional expectations, encouraging risk-taking and unconventional approaches. 
+
+The absence of funding also fosters a collaborative culture. Individuals sharing limited resources come together, leading to unexpected synergies and breakthroughs. This collaborative environment thrives on open-source sharing and mutual support, encouraging an unconventional approach that well-funded research might not.
+
+This is the genesis of [Automekin](https://github.com/emartineznunez/AutoMeKin) - a creation born at a time when our group was operating without any funding.
+
+
+
