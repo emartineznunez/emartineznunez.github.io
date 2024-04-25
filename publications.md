@@ -45,12 +45,7 @@ title: Publications
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/ISM.jpg" alt="alt text" width="300" height="150">
 </p>
 
-- C<sub>60</sub>+C<sub>60</sub> molecular bonding revisited and expanded  
-[CARBON, **2023**, _213_, 118209](https://www.sciencedirect.com/science/article/pii/S0008622323004542)
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/C60.jpg" alt="alt text" width="300" height="200">
-</p>
 
 ### 2. Most relevant<a name="latest"></a>
 
