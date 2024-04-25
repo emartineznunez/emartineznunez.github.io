@@ -11,8 +11,9 @@ title: Publications
 
 - Automatic Determination of the Non-Covalent Stable Conformations of the NO<sub>2</sub>-Pyrene Cluster in Full Dimensionality (81D) Using the vdW-TSSCDS Approach    
    [CHEMPHYSCHEM, **2024**, e202301001](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202301001)
+  
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/rates.gif" alt="alt text" width="300" height="200">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/vdw.jpg" alt="alt text" width="300" height="200">
 </p>
   
 
