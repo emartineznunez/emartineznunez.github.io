@@ -11,6 +11,10 @@ title: Publications
 
 - Automatic Determination of the Non-Covalent Stable Conformations of the NO<sub>2</sub>-Pyrene Cluster in Full Dimensionality (81D) Using the vdW-TSSCDS Approach    
    [CHEMPHYSCHEM, **2024**, e202301001](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202301001)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/rates.gif" alt="alt text" width="300" height="200">
+</p>
+  
 
 - Effect of temperature in the gas-phase reaction of CH<sub>3</sub>CN with OH radicals: Experimental $\scriptstyle{(T=11.7-177.5\mathrm{K})}$ and computational $\scriptstyle{(T=10-400\mathrm{K})}$ kinetic study  
    [PHYSICAL CHEMISTRY CHEMICAL PHYSICS, **2024**, _26_, 3632](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04944b)
