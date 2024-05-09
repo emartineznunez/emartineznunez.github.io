@@ -4,7 +4,7 @@ title: Promoviendo la Investigación Diversa
 subtitle: Análisis del Nuevo Programa de Ayudas en la Universidade de Santiago de Compostela
 tags: [politica cientifica]
 comments: true
-cover-img: "dirigismo.jpg"
+cover-img: "axudas.jpg"
 author: Emilio Martínez-Núñez
 ---
 
