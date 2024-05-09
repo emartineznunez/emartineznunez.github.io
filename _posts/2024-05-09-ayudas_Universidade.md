@@ -1,22 +1,18 @@
 ---
 layout: post
-title: Convocatoria de Ayudas Posdoctorales de la Xunta de Galicia
-subtitle: Otro Ejemplo de Dirigismo Científico 
+title: Promoviendo la Investigación Diversa 
+subtitle: Análisis del Nuevo Programa de Ayudas en la Universidade de Santiago de Compostela
 tags: [politica cientifica]
 comments: true
 cover-img: "dirigismo.jpg"
 author: Emilio Martínez-Núñez
 ---
 
-En la reciente convocatoria de ayudas posdoctorales, la Xunta de Galicia ha vuelto a evidenciar su política dirigista y su decidido apoyo exclusivo a los grandes grupos/centros de investigación. 
-El dirigismo científico que favorece exclusivamente a grandes grupos de investigación tiene las siguientes implicaciones:
+El nuevo programa de ayudas de la Universidade de Santiago de Compostela, titulado "Axudas a proxectos de investigación nos distintos ámbitos científicos co obxectivo de impulsar a actividade científica dos grupos de investigación 2024" https://imaisd.usc.es/guiaconvocatorias.asp?i=gl&s=-2-26-319-371&id=5051&t=1&st=10 , parece ser un paso en la dirección correcta. Se aparta significativamente de la tendencia predominante en muchas instituciones de financiar únicamente ciertas líneas, grupos o institutos de investigación que ya cuentan con suficiente financiamiento. Este enfoque ayuda a fomentar una mayor participación de la comunidad científica en la investigación, lo cual es esencial dado que nunca se sabe de antemano el impacto que puede tener cada investigación individual en la labor científica.
 
-1. **Efecto Mateo**: La brecha entre los grupos grandes y pequeños puede ampliarse. Los grandes reciben más recursos, mientras que los pequeños luchan por sobrevivir. El término proviene de una parábola bíblica que dice: "Al que tiene, se le dará más; al que no tiene, se le quitará incluso lo que tiene". En el contexto científico, esto significa que los investigadores "exitosos", los "que tienen", tienden a recibir más recursos, reconocimiento y oportunidades, mientras que los menos exitosos, los "que no tienen", enfrentan dificultades para acceder a recursos y avanzar en sus carreras. El Efecto Mateo puede agravarse cuando el gobierno favorece a los grupos grandes, ya que estos ya están en una posición ventajosa.
-2. **Inercia Científica**: Los grandes grupos pueden volverse menos ágiles y menos propensos a la innovación.
-3. **Exclusión**: Los investigadores emergentes o que forman grupos pequeños pueden quedar excluidos.
-4. **Presencia de "remoras" o "parásitos" dentro de esos grupos**: Algunos investigadores pueden adoptar estrategias menos éticas para sobresalir, como apropiarse del trabajo de otros, exagerar su contribución o dedicarse a temas de gestión firmando trabajos científicos que ni siquiera han leído.
-5. **Falta de Diversidad**: La homogeneidad en grandes grupos puede llevar a una falta de diversidad de pensamiento. El denominado ecosistema de investigación de las universidades se vuelve cada vez menos diverso.
-6. **Efecto de Red**: Los grupos grandes a menudo tienen más conexiones y recursos. Esto puede atraer a personas que buscan beneficiarse de esas redes sin contribuir significativamente.
+Además, reconoces la importancia de que los profesores universitarios también sean investigadores, lo cual es crucial para una educación universitaria de calidad. La retroalimentación entre la investigación y la enseñanza es fundamental: un investigador puede ser un mejor docente cuando está inmerso en la investigación, ya que profundiza su conocimiento en la disciplina y puede transmitirlo de manera más efectiva en el aula. Del mismo modo, una buena enseñanza puede inspirar a los estudiantes a involucrarse en la investigación y contribuir al avance del conocimiento en sus respectivos campos.
+
+En resumen, este programa de ayudas parece estar alineado con los principios de fomentar la investigación diversa y promover una sólida conexión entre la investigación y la enseñanza universitaria. Sería beneficioso ampliar este tipo de programas y recuperar ayudas que existían hace muchos años para la movilidad del profesorado, como la asistencia activa a congresos, estancias de investigación y la invitación de profesores visitantes. Estas iniciativas pueden enriquecer aún más el entorno académico y promover una colaboración internacional más sólida.
 
 
 
