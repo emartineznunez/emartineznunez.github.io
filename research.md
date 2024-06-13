@@ -125,4 +125,4 @@ Plots of motion in the XY plane for an O-atom of CO<sub>2</sub> prepared in diff
 {: .box-warning}
 This is a collaborative work with Upakarasamy Lourderaj and Bill Hase$\scriptstyle{^\dagger}$. Here is the [publication](https://pubs.acs.org/doi/full/10.1021/jp073317v#)
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/emartineznunez/emartineznunez.github.io/raw/master/Talk_EMN.pptx]' width='100%' height='600px' frameborder='0'>
+
