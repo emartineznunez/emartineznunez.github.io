@@ -4,7 +4,7 @@ title: Revisión de la Oferta de Másteres en la Universidade de Santiago de Com
 subtitle: Máster de Química Teórica y Modelización Computacional
 tags: [politica cientifica]
 comments: true
-cover-img: "axudas.jpg"
+cover-img: "masteres.jpg"
 author: Emilio Martínez-Núñez
 ---
 
