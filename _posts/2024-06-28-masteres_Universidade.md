@@ -8,7 +8,7 @@ cover-img: "masteres.jpg"
 author: Emilio Martínez-Núñez
 ---
 
-La Universidade de Santiago de Compostela participa en dos másteres: Química Orgánica y [Química Teórica](https://www.emtccm.org/), ambos ubicados entre los tres primeros en el ranking nacional de ciencias experimentales (año 2024). 
+La Universidade de Santiago de Compostela participa en dos másteres: Química Orgánica y [Química Teórica](https://www.emtccm.org/), ambos ubicados entre los tres primeros en el ranking nacional de ciencias experimentales de este año. 
 
 El máster en Química Teórica es particularmente singular, ya que no se solapa con ningún otro programa en la Comunidad Gallega. A pesar de esta característica distintiva, la Xunta de Galicia parece mostrar escaso interés, con la intención manifiesta de no ofrecer este máster en el futuro. Tanto la USC como la Xunta deberían centrarse en eliminar los significativos solapamientos que existen entre los másteres actualmente disponibles.
 
