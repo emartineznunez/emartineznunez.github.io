@@ -9,6 +9,16 @@ title: Publications
    
 ### 1. Latest<a name="latest"></a>
 
+
+-Comprehensive computational automated search of barrierless reactions leading to the formation of benzene and other C$_6$-membered rings
+   [SCIENCE ADVANCES, **2024**, _10_, eadq4077](https://www.science.org/doi/10.1126/sciadv.adq4077)
+  
+<p align="center">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/vdw.jpg" alt="alt text" width="300" height="200">
+</p>
+  
+
+
 - Automatic determination of the non-covalent stable conformations of the NO<sub>2</sub>-pyrene cluster in full dimensionality $\scriptstyle{(81\mathrm{D})}$ using the vdW-TSSCDS approach    
    [CHEMPHYSCHEM, **2024**, e202301001](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202301001)
   
@@ -38,12 +48,6 @@ title: Publications
    <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/Ballota.jpg" alt="alt text" width="300" height="150">
 </p>
 
-- Gas-Phase formation of glycolonitrile in the interstellar medium   
-[PHYSICAL CHEMISTRY CHEMICAL PHYSICS **2023**, _25_, 20988](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp02379f)
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/ISM.jpg" alt="alt text" width="300" height="150">
-</p>
 
 
 
