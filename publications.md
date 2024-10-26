@@ -10,7 +10,7 @@ title: Publications
 ### 1. Latest<a name="latest"></a>
 
 
-- Comprehensive computational automated search of barrierless reactions leading to the formation of benzene and other C$_6$-membered rings    
+- Comprehensive computational automated search of barrierless reactions leading to the formation of benzene and other C<sub>6</sub>-membered rings    
    [SCIENCE ADVANCES, **2024**, _10_, eadq4077](https://www.science.org/doi/10.1126/sciadv.adq4077)
   
 <p align="center">
