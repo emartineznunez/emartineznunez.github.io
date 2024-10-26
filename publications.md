@@ -14,7 +14,7 @@ title: Publications
    [SCIENCE ADVANCES, **2024**, _10_, eadq4077](https://www.science.org/doi/10.1126/sciadv.adq4077)
   
 <p align="center">
-   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/vdw.jpg" alt="alt text" width="300" height="200">
+   <img src="https://raw.githubusercontent.com/emartineznunez/emartineznunez.github.io/master/assets/img/sciadv.jpg" alt="alt text" width="300" height="200">
 </p>
   
 
